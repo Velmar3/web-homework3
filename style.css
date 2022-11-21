@@ -1,0 +1,53 @@
+body {
+    background: #f5efdd;
+}
+
+h1 {
+    color: #6d4231;
+    text-align: center;
+    font-family: Roboto, serif;
+}
+
+h2 {
+    color: #6d4231;
+    text-align: center;
+    font-family: Roboto, serif;
+}
+
+p {
+    color: #6d4231;
+    font-family: Roboto, serif;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 22px;
+    text-align: justify
+}
+
+#footer {
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    margin-bottom: 3%;
+}
+
+ol {
+    margin-right: 5%;
+    font-family: Roboto, serif;
+    font-size: 18px;
+}
+
+ul {
+    margin-left: 5%;
+    font-family: Roboto, serif;
+    font-size: 18px;
+}
+
+h3 {
+    color: #6d4231;
+    text-align: center;
+    font-family: Roboto, serif;
+}
